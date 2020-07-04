@@ -285,8 +285,6 @@ C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\bin\Debu
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
@@ -294,3 +292,5 @@ C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debu
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Naobou\Desktop\GitHub Clones\reactjs-crud-webapi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
